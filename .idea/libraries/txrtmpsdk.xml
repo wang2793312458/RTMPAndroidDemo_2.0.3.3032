@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="txrtmpsdk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/src/main/jniLibs/txrtmpsdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

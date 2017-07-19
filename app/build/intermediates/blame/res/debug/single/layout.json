@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\layout\\swipe_item.xml",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\layout\\swipe_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qrcode.xml",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\layout\\activity_qrcode.xml"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\layout\\titlebar.xml",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\layout\\titlebar.xml"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_linkmic.xml",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\layout\\activity_linkmic.xml"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\layout\\green_layout.xml",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\layout\\green_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_preview.xml",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\layout\\activity_video_preview.xml"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\layout\\merge_camera_preview_view_finder.xml",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\exploded-aar\\barcodescanner-core-1.8.4\\res\\layout\\merge_camera_preview_view_finder.xml"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\layout\\module_entry_item.xml",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\layout\\module_entry_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\layout\\swipe_menu_item.xml",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\layout\\swipe_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_edit_view.xml",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\layout\\item_edit_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ugc_video_list.xml",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\layout\\activity_ugc_video_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\layout\\merge_camera_preview_view_finder.xml",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\exploded-aar\\barcodescanner-core-1.8.4\\res\\layout\\merge_camera_preview_view_finder.xml"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\layout\\filter_layout.xml",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\layout\\filter_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_record.xml",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\layout\\activity_video_record.xml"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_joiner.xml",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\layout\\activity_video_joiner.xml"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_beauty_area.xml",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\layout\\fragment_beauty_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\layout\\comment.xml",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\layout\\comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_editer.xml",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\layout\\activity_video_editer.xml"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\layout\\beauty_pannel.xml",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\layout\\beauty_pannel.xml"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading.xml",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\layout\\loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_ugcedit_publish.xml",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\layout\\dialog_ugcedit_publish.xml"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_play.xml",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\layout\\activity_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_publish.xml",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\layout\\activity_publish.xml"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_play.xml",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\layout\\activity_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_joiner_preview.xml",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\layout\\activity_video_joiner_preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_grid_item_video.xml",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\layout\\camera_grid_item_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_ugc_video.xml",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\layout\\item_ugc_video.xml"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ugcupload">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/src/main/jniLibs/ugcupload.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

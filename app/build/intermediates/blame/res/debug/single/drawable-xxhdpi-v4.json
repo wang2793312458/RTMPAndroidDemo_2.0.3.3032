@@ -1,0 +1,682 @@
+[
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\main_bkg.jpg",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\main_bkg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_long_click_move.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\ic_long_click_move.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\filter_selected.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\filter_selected.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\qingxin.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\qingxin.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\filter_qingliang.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\filter_qingliang.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\progress_primary.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\progress_primary.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\greens.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\greens.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_lamp.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\record_lamp.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_camera_press.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\record_camera_press.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\fennen.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\fennen.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\publish_3.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\publish_3.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\publish_8.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\publish_8.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\filter_fennen.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\filter_fennen.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\langman.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\langman.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_pause_press.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\record_pause_press.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\greens_no.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\greens_no.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_video_material_download_normal.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\ic_video_material_download_normal.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_beautiful.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\ic_beautiful.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\vod.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\vod.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\publish_1.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\publish_1.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_download_press.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\record_download_press.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\publish_4.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\publish_4.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_start_press.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\record_start_press.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\greens_press.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\greens_press.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\publish_6.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\publish_6.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\filter_selected.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\filter_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_pause.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\record_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\orginal.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\orginal.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\publisher_video.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\publisher_video.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\beautiful.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\beautiful.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_word.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\ic_word.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\progress_bg.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\progress_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\pause_publish.jpg",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\pause_publish.jpg"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\publisher_live_press.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\publisher_live_press.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_camera.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\record_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_mask_top.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\record_mask_top.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\beautiful_press.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\beautiful_press.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\progress_primary.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\progress_primary.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\filter_qingliang.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\filter_qingliang.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_check.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\ic_check.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\publish_6.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\publish_6.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_camera_audio.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\ic_camera_audio.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_video_material_download_pressed.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\ic_video_material_download_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_camera_press.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\record_camera_press.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\landiao.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\landiao.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_kick_out.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\btn_kick_out.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_lamp.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\record_lamp.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\filter_press.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\filter_press.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_cut.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\ic_cut.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_cut.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\ic_cut.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\filter_weimei.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\filter_weimei.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\landiao.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\landiao.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_delete.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\record_delete.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_play.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\ic_play.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\filter_fennen.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\filter_fennen.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_start.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\record_start.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_share.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\icon_share.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\publisher_video.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\publisher_video.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\video.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\video.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\publish_5.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\publish_5.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\publish_0.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\publish_0.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_pause_press.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\record_pause_press.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_progress_line.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\ic_progress_line.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_download.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\record_download.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_delete.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\record_delete.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\publisher_live.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\publisher_live.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\greens_2.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\greens_2.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_video_material_download_normal.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\ic_video_material_download_normal.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\start_record.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\start_record.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\filter_landiao.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\filter_landiao.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_beautiful.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\ic_beautiful.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\greens_1.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\greens_1.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\move_press.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\move_press.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\publisher_live.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\publisher_live.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\publisher_live_press.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\publisher_live_press.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\pause_publish.jpg",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\pause_publish.jpg"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_beautiful.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\record_beautiful.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\main_bkg.jpg",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\main_bkg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\stop_record.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\stop_record.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_mask_buttom.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\record_mask_buttom.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\filter_landiao.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\filter_landiao.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\greens_selected.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\greens_selected.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\greens_2.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\greens_2.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_music.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\ic_music.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\stop_record.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\stop_record.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\publish_2.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\publish_2.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\filter_rixi.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\filter_rixi.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\qingxin.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\qingxin.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\langman.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\langman.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_pause.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\ic_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_camera_audio.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\ic_camera_audio.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_camera_download_bg.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\ic_camera_download_bg.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\filter_huaijiu.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\filter_huaijiu.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\orginal.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\orginal.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\weimei.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\weimei.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\publisher_video_press.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\publisher_video_press.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_video_material_download_pressed.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\ic_video_material_download_pressed.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\weimei.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\weimei.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\start_record.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\start_record.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\vod.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\vod.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rixi.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\rixi.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\publish_7.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\publish_7.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\beautiful.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\beautiful.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rixi.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\rixi.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\greens_no.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\greens_no.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\publisher_video_press.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\publisher_video_press.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_download.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\record_download.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_music.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\ic_music.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\huaijiu.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\huaijiu.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\publish_3.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\publish_3.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_long_click_move.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\ic_long_click_move.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\filter_huaijiu.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\filter_huaijiu.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_progress_left.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\ic_progress_left.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_start_press.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\record_start_press.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\greens_1.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\greens_1.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_progress_right.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\ic_progress_right.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\publish_0.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\publish_0.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\video.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\video.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_pause.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\record_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\move.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\move.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\greens_press.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\greens_press.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_progress_left.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\ic_progress_left.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_beautiful.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\record_beautiful.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\progress_bg.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\progress_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\qingliang.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\qingliang.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\filter_rixi.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\filter_rixi.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_delete_red.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\ic_delete_red.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\filter_press.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\filter_press.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_word.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\ic_word.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\greens_selected.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\greens_selected.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_delete_press.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\record_delete_press.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_kick_out.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\btn_kick_out.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_mask_top.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\record_mask_top.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\qingliang.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\qingliang.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\selected_hover_image.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\selected_hover_image.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_lamp_press.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\record_lamp_press.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\selected_hover_image.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\selected_hover_image.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_progress_line.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\ic_progress_line.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\fennen.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\fennen.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\filter_weimei.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\filter_weimei.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\filter_langman.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\filter_langman.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\move.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\move.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\greens.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\greens.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\filter_qingxin.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\filter_qingxin.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_delete_red.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\ic_delete_red.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\huaijiu.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\huaijiu.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_check.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\ic_check.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\beautiful_press.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\beautiful_press.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\publish_7.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\publish_7.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\publish_1.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\publish_1.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\publish_4.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\publish_4.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_download_press.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\record_download_press.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_mask_buttom.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\record_mask_buttom.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_camera_download_bg.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\ic_camera_download_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_progress_right.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\ic_progress_right.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_play.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\ic_play.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\filter_qingxin.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\filter_qingxin.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_lamp_press.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\record_lamp_press.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\filter.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\filter.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_delete_press.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\record_delete_press.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\move_press.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\move_press.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\filter_langman.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\filter_langman.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\publish_2.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\publish_2.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_camera.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\record_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\filter.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\filter.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_share.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\icon_share.png"
+    },
+    {
+        "merged": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_start.png",
+        "source": "E:\\ProJect\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\record_start.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\publish_8.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\publish_8.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\publish_5.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\publish_5.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_pause.png",
+        "source": "C:\\Users\\win10\\Desktop\\new\\RTMPAndroidDemo_2.0.3.3032\\app\\src\\main\\res\\drawable-xxhdpi\\ic_pause.png"
+    }
+]

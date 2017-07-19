@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sha1utils">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/src/main/jniLibs/sha1utils.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
